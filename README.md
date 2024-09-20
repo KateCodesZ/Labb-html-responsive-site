@@ -1,1 +1,1 @@
-# Labb2-html-responsive-site
+# Labb2-html-responsive-website
